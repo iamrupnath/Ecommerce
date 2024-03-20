@@ -8,7 +8,7 @@ export const mainCarouselData = [
     path: "/woman/clothing/women_dress",
   },
   {
-    image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/2/12_10.jpg",
+    image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/1/11_11.jpg",
     path: "/woman/clothing/lehenga-choli",
   },
   {
